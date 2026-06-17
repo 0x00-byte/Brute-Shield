@@ -29,7 +29,7 @@ However, users are not permanently locked out, as they are only blocked for five
 
 #### **How to run**
 
-git clone https://github.com/nullbytes-0x00/brute-shield
+git clone https://github.com/0x00-byte/brute-shield
 cd brute-shield
 python main.py
 
