@@ -29,9 +29,11 @@ However, users are not permanently locked out, as they are only blocked for five
 
 #### **How to run**
 
-**git clone https://github.com/nullbytes-0x00/brute-shield**
+git clone https://github.com/nullbytes-0x00/brute-shield
+cd brute-shield
+python main.py
 
-**cd brute-shield**
+### **What is next ?**
 
-**python main.py**
-
+Brute-shield-V2 will support persistant logging and tracking of various users using a local database, instead of relying on text files or program memory. 
+So unlike V1, V2 will retain log data accross sessions-- meaning all the recorded data will survive restarts.
